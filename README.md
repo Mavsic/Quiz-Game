@@ -20,4 +20,5 @@ The following animation demonstrates the application functionality:
 
 ## Link to the GitHub
 
-("https://github.com/Mavsic/Quiz-Game")
+Repo: ("https://github.com/Mavsic/Quiz-Game")
+Web: (https://mavsic.github.io/Quiz-Game/)
