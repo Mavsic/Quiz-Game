@@ -19,3 +19,5 @@ The following animation demonstrates the application functionality:
 ![Image of a web site](/Screenshot%202022-10-24%20114814.png)
 
 ## Link to the GitHub
+
+("https://github.com/Mavsic/Quiz-Game")
